@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apudmm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/apudmm/apudmm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/out/artifacts/apudmm/apudmm.jar!/" recursive="false" />
+  </library>
+</component>
